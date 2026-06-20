@@ -15,7 +15,7 @@ An Information and Communication Technology (ICT) student at Mawlana Bhashani Sc
   <a href="https://leetcode.com/u/Ashikur68/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/profile/Ashikur68" target="_blank">
+  <a href="https://www.hackerrank.com/profile/ashikurrhaman724" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
@@ -38,12 +38,33 @@ An Information and Communication Technology (ICT) student at Mawlana Bhashani Sc
 ---
 
 ## 📊 Live Metrics & Analytics
+
+### 💻 Coding & Algorithmic Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashikur758&show_icons=true&theme=radical" alt="Ashik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikur758&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashikur758&show_icons=true&theme=radical" alt="Ashik's GitHub Stats" height="180" />
+  <!-- GitHub Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikur758&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
 
----
+<p align="left">
+  <!-- Codeforces Profile Badge/Stats Summary -->
+  <a href="https://codeforces.com/profile/Ashikur682224" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Profile_&_Rating-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces Stats" height="35" />
+  </a>
+  <!-- LeetCode Stats Card Alternative -->
+  <a href="https://leetcode.com/u/Ashikur682224/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solved_Problems_&_Metrics-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Stats" height="35" />
+  </a>
+</p>
+
+### 🤖 Hardware & Architecture Metrics (M.Sc. & Thesis Focused)
+*Demonstrating hands-on systems and simulation expertise for academic and industry evaluation.*
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-Embedded_Systems_&_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IoT" />
+  <img src="https://img.shields.io/badge/Microprocessor-8086_/_ARM_Architecture_Metrics-005CAC?style=for-the-badge&logo=intel&logoColor=white" alt="Microprocessor Architecture" />
+  <img src="https://img.shields.io/badge/Unix-Kernel_&_System_Performance-E15718?style=for-the-badge&logo=linux&logoColor=white" alt="Unix Architecture" />
+</p>
 
 ## 🌐 Connect & Collaborate
 - 💼 **LinkedIn:** [Professional Profile](https://linkedin.com/in/your-linkedin-username)
