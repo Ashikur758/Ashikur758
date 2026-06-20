@@ -57,7 +57,11 @@ An Information and Communication Technology (ICT) student at Mawlana Bhashani Sc
     <img src="https://img.shields.io/badge/LeetCode-Solved_Problems_&_Metrics-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Stats" height="35" />
   </a>
 </p>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-IoT_&_Embedded_Systems-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Microprocessor-8086_/_ARM_Architecture-005CAC?style=flat-square&logo=intel&logoColor=white" alt="Microprocessor" />
+  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-Neural_Networks-FF6F00?style=flat-square&logo=brain&logoColor=white" alt="AI & ML" />
+</p>
 ### 🤖 Hardware & Architecture Metrics (M.Sc. & Thesis Focused)
 *Demonstrating hands-on systems and simulation expertise for academic and industry evaluation.*
 <p align="left">
