@@ -1,5 +1,4 @@
 # Hi there, I'm Md. Ashikur Rahman Ashik! 👋
-
 An Information and Communication Technology (ICT) student at Mawlana Bhashani Science and Technology University (MBSTU). I am a passionate programmer, tech enthusiast, and researcher at heart—constantly balancing software optimization with hardware innovation.
 
 ## 🏆 Coding & Competitive Programming Profiles
